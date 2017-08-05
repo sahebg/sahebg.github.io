@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Redemption
+description:      Blog of a Computer Enthusiast, Gamer, and part-time Spiritual Philospher
 
 # put your disqus here
 disqus_shortname:
@@ -20,10 +20,6 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -39,10 +35,10 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  name:           Saheb Ghosh
+  site:           http://sahebg.github.io
+  avatar:         https://avatars0.githubusercontent.com/u/27915058?v=4&s=400
+  bio:            "Computer Science Major, Bioinformatics Bachelor, Deep Learning enthusiast, Gamer and ocassional Philosopher"
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
@@ -56,17 +52,15 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/sahebg"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://br.linkedin.com/in/sahebghosh"
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-104075483-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
