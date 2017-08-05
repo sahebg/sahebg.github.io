@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: https://sahebg.github.io/neo-hpstr-jekyll-theme
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -36,7 +36,7 @@ menu:
 # Owner/author information
 owner:
   name:           Saheb Ghosh
-  site:           http://sahebg.github.io
+  site:           https://sahebg.github.io
   avatar:         https://avatars0.githubusercontent.com/u/27915058?v=4&s=400
   bio:            "Computer Science Major, Bioinformatics Bachelor, Deep Learning enthusiast, Gamer and ocassional Philosopher"
   email:          you@email.com
