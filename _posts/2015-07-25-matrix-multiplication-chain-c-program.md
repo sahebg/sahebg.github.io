@@ -4,6 +4,10 @@ title: "Matrix Chain Multiplication , with C Program Example"
 modified:   2015-07-25
 categories: [ComputerSceince]
 tags: [C, Algorithm]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-08-06T12:49:30-05:00
 image:
     feature: /Algo/algo.jpg
 ---
