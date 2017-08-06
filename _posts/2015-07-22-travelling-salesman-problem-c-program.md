@@ -4,6 +4,10 @@ title: "Travelling Salesman Problem , with C Program Example"
 modified:   2015-07-22
 categories: [ComputerSceince]
 tags: [C, Algorithm]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-07-22T12:49:30-05:00
 image:
     feature: /Algo/algo.jpg
 ---
