@@ -4,6 +4,10 @@ title: "All pair shortest path problem(Floyd Warshall Algorithm), with C Program
 modified:   2015-07-26
 categories: [ComputerSceince]
 tags: [C, Algorithm, Graph, Dynamic Programming]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-08-06T12:49:30-05:00
 image:
     feature: /Algo/algo.jpg
 ---
