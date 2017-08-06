@@ -9,7 +9,7 @@ image:
 ---
 Floyd–Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles)
 
-![_config.yml]({{ site.baseurl }}/images/Algo/fw.png)
+![_config.yml]({{ site.baseurl }}/images/Algo/image1.png)
 
 ## Floyd Warshall Algorithm
 We initialize the solution matrix same as the input graph matrix as a first step. Then we update the solution matrix by considering all vertices as an intermediate vertex. The idea is to one by one pick all vertices and update all shortest paths which include the picked vertex as an intermediate vertex in the shortest path. When we pick vertex number k as an intermediate vertex, we already have considered vertices {0, 1, 2, .. k-1} as intermediate vertices. For every pair (i, j) of source and destination vertices respectively, there are two possible cases.
