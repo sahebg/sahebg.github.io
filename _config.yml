@@ -29,7 +29,7 @@ menu:
     url: '#'
     submenu:
       - title: 'TrueDigger Blog'
-        url: 'https://truedigger.blogspot.in/'
+        url: ('https://truedigger.blogspot.in/')
   - title: 'Posts'
     url: '/posts'
   - title: 'About'
