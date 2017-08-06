@@ -25,12 +25,10 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'All Posts'
+  - title: 'Posts'
     url: '/posts'
   - title: 'TrueDiggerBlog'
     url: 'http://truedigger.blogspot.in/'
-  - title: 'About'
-    url: '/about'
 # Owner/author information
 owner:
   name:           Saheb Ghosh
