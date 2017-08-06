@@ -28,10 +28,8 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+      - title: 'TrueDigger Blog'
+        url: https://truedigger.blogspot.in/
   - title: 'Posts'
     url: '/posts'
   - title: 'About'
