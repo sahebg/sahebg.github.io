@@ -2,7 +2,7 @@ title:            Redemption
 description:      Blog of a Computer Enthusiast, Gamer, and part-time Spiritual Philospher
 
 # put your disqus here
-disqus_shortname: sahebg
+disqus_shortname: https-sahebg-github-io
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
