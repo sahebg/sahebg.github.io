@@ -7,7 +7,7 @@ tags: [C, Algorithm]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2015-07-20T12:49:30-05:00
+    lastmod: 2017-08-01T12:49:30-05:00
 image:
     feature: /Algo/algo.jpg
 ---
