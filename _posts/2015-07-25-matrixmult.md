@@ -5,7 +5,7 @@ modified:   2015-07-25
 categories: [ComputerSceince]
 tags: [C, Algorithm]
 image:
-    feature: /Algo/Algo1.jpg
+    feature: /Algo/algo.jpg
 ---
 Matrix chain multiplication (or Matrix Chain Ordering Problem, MCOP) is an optimization problem that can be solved using dynamic
 programming. Given a sequence of matrices, the goal is to find the most efficient way to multiply these matrices. The problem is 
@@ -14,8 +14,9 @@ not actually to perform the multiplications, but merely to decide the sequence o
 Here are many options because matrix multiplication is associative. In other words, no matter how the product is parenthesized, 
 the result obtained will remain the same. For example, for four matrices A, B, C, and D, we would have:
 
-    ((AB)C)D = ((A(BC))D) = (AB)(CD) = A((BC)D) = A(B(CD)). 
+  ((AB)C)D = ((A(BC))D) = (AB)(CD) = A((BC)D) = A(B(CD))
     
+
 ![_config.yml]({{ site.baseurl }}/images/Algo/matrix.gif)
 
 Dynamic Programming Solution :
