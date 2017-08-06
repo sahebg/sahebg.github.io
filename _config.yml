@@ -32,7 +32,10 @@ menu:
         url: '/intro/code-highlighting-post/'
       - title: 'Sample Post'
         url: '/intro/sample-post/'
-
+  - title: 'Posts'
+    url: '/posts'
+  - title: 'About'
+    url: '/about'
 # Owner/author information
 owner:
   name:           Saheb Ghosh
