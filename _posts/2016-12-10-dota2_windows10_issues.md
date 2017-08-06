@@ -5,7 +5,7 @@ modified:   2017-03-30
 categories: [Sample]
 tags: [Windows, Dota]
 image:
-    feature: feature.jpg
+    feature: post1.jpg
     credit: killping
 ---
 Dota 2 has gone through some tremendous updates in 7.0 version. The part which I liked was the new clean interface and MK.
