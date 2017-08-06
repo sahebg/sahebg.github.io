@@ -4,6 +4,10 @@ title: "How to fix Dota 2 Crash or freeze Windows 10 "
 modified:   2017-03-30
 categories: [Gaming]
 tags: [Windows, Dota]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-08-06T12:49:30-05:00
 image:
     feature: post1.jpg
     credit: killping
