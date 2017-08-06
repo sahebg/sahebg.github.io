@@ -20,7 +20,7 @@ Program in C :
 
 {% highlight c lineos %}
 #include<stdio.h>
- void mergesort(int a[],int i,int j);
+void mergesort(int a[],int i,int j);
 void merge(int a[],int i1,int j1,int i2,int j2);
  
 int main()
@@ -85,6 +85,10 @@ void merge(int a[],int i1,int j1,int i2,int j2)
 
 
 - Output:
+
+
 ![_config.yml]({{ site.baseurl }}/images/Algo/image1.png)
 
-Please comment below in case of any problem found during running teh code or any other doubts.
+
+
+Please comment below in case of any problem found during running the code or any other doubts.
