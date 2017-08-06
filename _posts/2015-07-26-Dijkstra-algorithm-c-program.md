@@ -4,6 +4,10 @@ title: "Single Source Shortest Path (Dijkstra’s Algorithm), with C Program Exa
 modified:   2015-07-26
 categories: [ComputerSceince]
 tags: [C, Algorithm, Greedy Algorithm, Dijkstra]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-08-06T12:49:30-05:00
 image:
     feature: /Algo/algo.jpg
 ---
