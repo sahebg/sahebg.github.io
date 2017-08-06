@@ -5,7 +5,7 @@ modified:   2015-07-20
 categories: [ComputerSceince]
 tags: [C, Algorithm]
 image:
-    feature: /Algo/Algo2.jpg
+    feature: /Algo/algo.jpg
 ---
 Merge sort is one of the most effiecient Divide and Conquer Algorithm. This runs on Big-Oh(O)(nlogn) at worst case.
 Conceptually, a merge sort works as follows:
