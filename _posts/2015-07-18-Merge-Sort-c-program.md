@@ -4,6 +4,10 @@ title: "What is Merge Sort , with C Program Example"
 modified:   2015-07-18
 categories: [ComputerSceince]
 tags: [C, Algorithm]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-07-18T12:49:30-05:00
 image:
     feature: /Algo/Algo1.jpg
 ---
