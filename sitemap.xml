@@ -13,4 +13,7 @@ layout: null
   </url>
   {% endif %}
   {% endfor %}
+  {% for page in site.pages %}
+  <url>{{ site.url }}{{ site.baseurl }}{{ page.url }}</url>
+  {% endfor %}
 </urlset>
