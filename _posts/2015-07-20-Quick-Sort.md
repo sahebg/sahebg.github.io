@@ -7,13 +7,17 @@ tags: [C, Algorithm]
 image:
     feature: /Algo/algo.jpg
 ---
-Merge sort is one of the most effiecient Divide and Conquer Algorithm. This runs on Big-Oh(O)(nlogn) at worst case.
-Conceptually, a merge sort works as follows:
+Quicksort is a divide and conquer algorithm. Quicksort first divides a large array into two smaller sub-arrays: the low elements and the high elements. Quicksort can then recursively sort the sub-arrays.
 
+The steps are:
 
-- Divide the unsorted list into n sublists, each containing 1 element (a list of 1 element is considered sorted).
-- Repeatedly merge sublists to produce new sorted sublists until there is only 1 sublist remaining. This will be the sorted list.
+- Pick an element, called a pivot, from the array.
+- Partitioning: reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final position. This is called the partition operation.
+- Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with greater values.
 
+The base case of the recursion is arrays of size zero or one, which never need to be sorted. In asymptotic notation Quick sort can take upto O(n²) in wrost case , however on average its takes O(n log n).
+
+The pivot selection and partitioning steps can be done in several different ways; the choice of specific implementation schemes greatly affects the algorithm's performance.
 ![_config.yml]({{ site.baseurl }}/images/Algo/Quick.gif)
 
 Program in C :
