@@ -18,7 +18,6 @@ Prim's algorithm to find the minimum cost spanning tree of for a weighted undire
 - Grow the tree by one edge: of the edges that connect the tree to vertices not yet in the tree, find the minimum-weight edge, and transfer it to the tree.
 - Repeat step 2 (until all vertices are in the tree).
 
-
 ![_config.yml]({{ site.baseurl }}/images/Algo/prim.gif)
 
 The time complexity of Prim's algorithm depends on the data structures used for the graph and for ordering the edges by weight, which can be done using a priority queue. 
