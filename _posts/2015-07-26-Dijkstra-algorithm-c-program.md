@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single Source Shortest Path (Dijkstra’s Algorithm), with C Program Example"
-modified:   2015-07-26
+modified:   2017-07-08
 categories: [ComputerSceince]
 tags: [C, Algorithm, Greedy Algorithm, Dijkstra]
 sitemap:
