@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Quick Sort , with C Program Example"
-modified:   2015-07-20
+modified:   2017-07-08
 categories: [ComputerSceince]
 tags: [C, Algorithm]
 sitemap:
