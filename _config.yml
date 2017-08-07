@@ -27,8 +27,6 @@ menu:
     type: 'categories'
   - title: 'Posts'
     url: '/posts'
-  - title: 'TrueDiggerBlog'
-    url: 'http://truedigger.blogspot.in/'
 # Owner/author information
 owner:
   name:           Saheb Ghosh
@@ -40,6 +38,7 @@ owner:
   twitter: thesaheb # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: sahebg
+  blogger: http://truedigger.blogspot.in/
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
