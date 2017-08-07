@@ -21,6 +21,8 @@ Kruskal's algorithm to find the minimum cost spanning tree uses the greedy appro
     - if the removed edge connects two different trees then add it to the forest F, combining two trees into a single tree
 
 ![_config.yml]({{ site.baseurl }}/images/Algo/kruskal.gif)
+
+
 At the termination of the algorithm, the forest forms a minimum spanning forest of the graph. If the graph is connected, the forest has a single component and forms a minimum spanning tree
 Kruskal's algorithm can be shown to run in O(E log E) time, or equivalently, O(E log V) time, where E is the number of edges in the graph and V is the number of vertices.
 
