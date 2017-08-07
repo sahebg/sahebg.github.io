@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matrix Chain Multiplication , with C Program Example"
-modified:   2015-07-25
+modified:   2017-07-08
 categories: [ComputerSceince]
 tags: [C, Algorithm]
 sitemap:
