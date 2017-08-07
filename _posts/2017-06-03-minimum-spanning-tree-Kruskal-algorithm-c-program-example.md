@@ -3,7 +3,7 @@ layout: post
 title: "Minimum spanning tree-Kruskal's algorithm, with C Program Example"
 modified:   2017-07-08
 categories: [ComputerSceince]
-tags: [C, Algorithm, Graph, Greedy algorithm]
+tags: [C, Algorithm, Graph, Greedy Algorithm]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
