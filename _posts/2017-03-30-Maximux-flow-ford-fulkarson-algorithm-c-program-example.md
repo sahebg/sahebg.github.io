@@ -13,9 +13,8 @@ image:
 ---
 The Ford-Fulkerson algorithm is a method that resolves the max-flow min-cut problem. That is, given a network with vertices and edges between those vertices that have certain weights, how much "flow" can the network process at a time? Flow can mean anything, but typically it means data through a computer network. 
 When the capacities are integers, the runtime of Ford–Fulkerson is bounded by O ( E *f ).
-![_config.yml]({{ site.baseurl }}/images/Algo/fw.png)
 
-## Floyd Warshall Algorithm
+## Ford-Fulkarson’s algorithm
 Given a graph which represents a flow network where every edge has a capacity. Also given two vertices source ‘s’ and sink ‘t’ in the graph, find the maximum possible flow from s to t with following constraints:
 
 - Flow on an edge doesn’t exceed the given capacity of the edge.
@@ -149,7 +148,7 @@ int main () {
 ## Output:
 
 
-![_config.yml]({{ site.baseurl }}/images/Algo/image7.png)
+![_config.yml]({{ site.baseurl }}/images/Algo/image8.png)
 
 
 
