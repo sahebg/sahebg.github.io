@@ -32,7 +32,7 @@ owner:
   name:           Saheb Ghosh
   site:           https://sahebg.github.io
   avatar:         author.jpg
-  bio:            "Computer Science Major, Bioinformatics Bachelor, Deep Learning enthusiast, hard core Gamer , ocassional Philosopher, avid music listener and movie lover. Visit my other blog for Gaming and Technical review related posts @ Blogger (http://truedigger.blogspot.in/) "
+  bio:            "Computer Science Major, Bioinformatics Bachelor, Deep Learning enthusiast, hard core Gamer , ocassional Philosopher, avid music listener and movie lover. Visit my other blog for Gaming and Technical review related posts @ Blogger; also feel free to post a question @ Quora (links below)"
   email:          saheb.6390@email.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: thesaheb # if no twitter in this config, the twitter follow button will be removed
@@ -50,8 +50,10 @@ social:
     url: "https://github.com/sahebg"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/sahebg/"
-  - title: "blogger"
+  - title: "wordpress"
     url: "http://truedigger.blogspot.in/"
+  - title: "quora"
+    url: "https://www.quora.com/profile/Saheb-Ghosh"
 
 # Background image to be tiled on all pages
 background:
