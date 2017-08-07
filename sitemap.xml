@@ -8,7 +8,7 @@ layout: null
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
     <lastmod>{{ post.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-    <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+    <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   {% endif %}
