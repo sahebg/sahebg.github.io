@@ -11,7 +11,7 @@ sitemap:
 image:
     feature: /Utility/usbboot1.png
 ---
-Nowadays buring a DVD with ISO image is tidious process, compare to making a Bootable USB. However in market there are plenty of Bootable usb makes such as Pendrive Linux, Unetbootin, Win32DiskImager etc.
+Nowadays burning a DVD with ISO image is tidious process, compare to making a Bootable USB. However in market there are plenty of Bootable usb makes such as Pendrive Linux, Unetbootin, Win32DiskImager etc.
 I have compared all of them and have made more than 300 bootable usb drive.
 
 - Some of them fails to boot or some of them throw error during Operating System installation.
