@@ -3,7 +3,7 @@ layout: post
 title: "How to make Bootable USB, for any Operating system or bootable ISO image"
 modified:   2017-08-08
 categories: [ComputerSceince]
-tags: [Operating Systems, Bootable ISO, Windows, Linux]
+tags: [Operating Systems, Bootable ISO, Bootable USB, Windows, Linux]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
