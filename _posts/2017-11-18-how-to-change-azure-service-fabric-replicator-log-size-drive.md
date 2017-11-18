@@ -1,6 +1,6 @@
 ---
 layout: post
-name: Welcome to Saheb's blog : Random Access Memories.
+name: Welcome to Saheb's blog - Random Access Memories.
 title: "How to Change Service Fabric replicator log size and drive"
 modified:   2017-11-17
 categories: [ComputerSceince]
