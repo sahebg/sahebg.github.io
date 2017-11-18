@@ -37,6 +37,7 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 	  
 	Note that minimum value is : 1024. You can make it 1024 or its integer multiples. 
 	This should look like this after change. Make sure Curly braces and Commas are correctly closed.
+	
    	 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric2.JPG)
     
     - To change the drive itself for Local Cluster : edit the Setup subsection in fabricsettings section.Replace %systemdrive% 	    to the drive where you want to keep your Cluster. Mine looks like this: 
@@ -55,7 +56,7 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 	
         ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric3.JPG)
 
-## You can even do both the changes, as I have done. This should look like this after the change.
+#### You can even do both the changes, as I have done. This should look like this after the change.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric4.JPG) 
 
 - Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster
