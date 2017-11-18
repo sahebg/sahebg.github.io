@@ -1,5 +1,8 @@
 ---
 layout: post
+seo:
+   name: Welcome to Saheb's blog - Random Access Memories.
+   type: BlogPosting
 title: "How to fix Dota 2 Crash or freeze Windows 10 "
 modified:   2017-07-08
 categories: [Gaming]
