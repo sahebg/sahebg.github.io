@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-06T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: All pair shortest path problem explanation and algorithmic solution. C Program example of Floyd Warshall Algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-06-13T12:49:30-05:00
 ---
 Floyd–Warshall algorithm is an algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles)
 
