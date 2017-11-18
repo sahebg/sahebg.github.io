@@ -7,9 +7,13 @@ tags: [C, Algorithm, Graph, Greedy Algorithm]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2017-08-06T12:49:30-05:00
-image:
+    lastmod: 2017-08-10T12:49:30-05:00
+author: Saheb Ghosh
+description: Minimum spanning tree Problem explanation and algorithmic solution. C Program example of Prim's algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-09T12:49:30-05:00
 ---
 Prim's algorithm to find the minimum cost spanning tree of for a weighted undirected graph, uses the greedy approach. Prim's algorithm, in contrast with Kruskal's algorithm, treats the nodes as a single tree and keeps on adding new nodes to the spanning tree from the given graph.
 ## Prim’s algorithm
