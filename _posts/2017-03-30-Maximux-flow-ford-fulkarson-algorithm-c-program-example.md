@@ -7,9 +7,13 @@ tags: [C, Algorithm, Greedy Algorithm]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2017-08-06T12:49:30-05:00
-image:
+    lastmod: 2017-09-06T12:49:30-05:00
+author: Saheb Ghosh
+description: Maximum Flow problem explanation and algorithmic solution. C Program example of Ford-Fulkarson’s algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-09-02T12:49:30-05:00
 ---
 The Ford-Fulkerson algorithm is a method that resolves the max-flow min-cut problem. That is, given a network with vertices and edges between those vertices that have certain weights, how much "flow" can the network process at a time? Flow can mean anything, but typically it means data through a computer network. 
 When the capacities are integers, the runtime of Ford–Fulkerson is bounded by O ( E *f ).
