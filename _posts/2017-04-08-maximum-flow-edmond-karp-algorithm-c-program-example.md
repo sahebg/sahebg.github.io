@@ -7,9 +7,13 @@ tags: [C, Algorithm, Graph, Augmenting Path]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2017-08-06T12:49:30-05:00
-image:
+    lastmod: 2017-08-10T12:49:30-05:00
+author: Saheb Ghosh
+description: Maximum flow Problem explanation and algorithmic solution. C Program example of Edmonds–Karp algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-07T12:49:30-05:00
 ---
 Edmonds–Karp algorithm is an implementation of the Ford–Fulkerson method for computing the maximum flow in a flow network in much more optimized approach.
 Edmonds-Karp is identical to Ford-Fulkerson except for one very important trait. The search order of augmenting paths is well defined. As a refresher from the Ford-Fulkerson wiki, augmenting paths, along with residual graphs, are the two important concepts to understand when finding the max flow of a network.
