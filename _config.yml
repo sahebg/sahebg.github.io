@@ -1,4 +1,4 @@
-title:            Random Access Memories
+title: Random Access Memories
 description: Blog of a Computer Enthusiast, Gamer, and part-time Spiritual Philospher
 author: sahebghosh
 # put your disqus here
@@ -46,6 +46,7 @@ twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
+  name: Saheb Ghosh
   - title: "github"
     url: "https://github.com/sahebg"
   - title: "linkedin"
