@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-03T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: Travelling Salesman Problem explanation and algorithmic solution. C Program example of Travelling Salesman Problem.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-02T12:49:30-05:00
 ---
 Travelling Salesman Problem is defined as "Given a list of cities and the distances between each pair of cities, what is the 
 shortest possible route that visits each city exactly once and returns to the origin city?" It is an NP-hard problem.
