@@ -7,9 +7,13 @@ tags: [C, Algorithm, Graph, Greedy Algorithm]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2017-08-06T12:49:30-05:00
-image:
+    lastmod: 2017-08-09T12:49:30-05:00
+author: Saheb Ghosh
+description: Minimum spanning tree Problem explanation and algorithmic solution. C Program example of Kruskal's algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-07T12:49:30-05:00
 ---
 Kruskal's algorithm to find the minimum cost spanning tree uses the greedy approach. This algorithm treats the graph as a forest and every node it has as an individual tree. A tree connects to another only and only if, it has the least cost among all available options and does not violate MST(Minimum spanning tree) properties.
 ## Kruskal’s algorithm
