@@ -59,7 +59,8 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 #### You can even do both the changes, as I have done. This should look like this after the change.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric4.JPG) 
 
-- Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster. It will take some time. Get a coffee or someting !
+- Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster. It will take some time. Get a coffee or something !
+
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric5.JPG) 
 
 - When its removed you will see an option for  Servcie Fabric Cluster Manager -> Setup Local Cluster -> 1 Node  or 5 Node as per your requirement.
