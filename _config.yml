@@ -12,6 +12,11 @@ excerpt_separator: <!--more-->
 
 url: https://sahebg.github.io
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/Algo/Algo1.jpg
 # draw your top menu here
 # each item must have a title and a url.
 #   To list post categories. use type: 'categories'
