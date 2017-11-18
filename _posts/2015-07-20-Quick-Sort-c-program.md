@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-01T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: Quick Sort and its working with animation. C Program example of Quick Sort.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-07-25T12:49:30-05:00
 ---
 Quicksort is a divide and conquer algorithm. Quicksort first divides a large array into two smaller sub-arrays: the low elements and the high elements. Quicksort can then recursively sort the sub-arrays.
 
