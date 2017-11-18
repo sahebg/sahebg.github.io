@@ -8,7 +8,7 @@
 {% seo %}
 </head>
 
-<body id="post" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post" {% if page.pic.feature %}class="feature"{% endif %}>
 
 {% include browser-upgrade.html %}
 {% include header.html %}
@@ -16,10 +16,10 @@
 <div id="main" role="main">
   <article class="hentry">
     <div class="entry-content">
-        {% if page.image.feature %}
+        {% if page.pic.feature %}
             <div class="entry-image-index">
-              <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }}">
-              {% if page.image.credit %}<div class="image-credit">Image source: <a target="_blank" href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+              <img src="{{ site.url }}/images/{{ page.pic.feature }}" alt="{{ page.title }}">
+              {% if page.pic.credit %}<div class="image-credit">Image source: <a target="_blank" href="{{ page.pic.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
             </div>
         {% endif %}
       {{ content }}
