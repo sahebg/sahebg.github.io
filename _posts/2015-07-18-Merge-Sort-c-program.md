@@ -8,8 +8,10 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-01T12:49:30-05:00
-image:
+image: /images/Algo/Algo1.jpg
+pic:
     feature: /Algo/Algo1.jpg
+date: 2017-08-01T12:49:30-05:00
 ---
 Merge sort is one of the most effiecient Divide and Conquer Algorithm. This runs on Big-Oh(O)(nlogn) at worst case.
 Conceptually, a merge sort works as follows:
