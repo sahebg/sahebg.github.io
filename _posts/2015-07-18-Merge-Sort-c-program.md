@@ -8,6 +8,8 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-01T12:49:30-05:00
+author: Saheb Ghosh
+description: Merge Sort and its working with animation. C Program example of Merge Sort.
 image: /images/Algo/Algo1.jpg
 pic:
     feature: /Algo/Algo1.jpg
