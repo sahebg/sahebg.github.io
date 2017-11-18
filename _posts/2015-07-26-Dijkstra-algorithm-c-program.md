@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-06T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: Single Source Shortest Path Problem explanation and algorithmic solution(Dijkstra’s Algorithm). C Program example of Dijkstra’s Algorithm.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-05T12:49:30-05:00
 ---
 For a given source node in the graph, the algorithm finds the shortest path between that node and every other.It can also be 
 used for finding the shortest paths from a single node to a single destination node by stopping the algorithm once the shortest 
