@@ -7,9 +7,13 @@ tags: [Operating Systems, Bootable ISO, Bootable USB, Windows, Linux]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2017-08-01T12:49:30-05:00
-image:
+    lastmod: 2017-05-01T12:49:30-05:00
+author: Saheb Ghosh
+description: How to make Bootable USB, for any Operating system or bootable ISO image
+image: /images/Utility/usbboot1.png
+pic:
     feature: /Utility/usbboot1.png
+date: 2017-05-01T12:49:30-05:00
 ---
 Nowadays burning a DVD with ISO image is tidious process, compare to making a Bootable USB. However in market there are plenty of Bootable usb makes such as Pendrive Linux, Unetbootin, Win32DiskImager etc.
 I have compared all of them and have made more than 300 bootable usb drive.
