@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-06T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: Matrix Chain multiplication and algorithmic solution. C Program example of Matrix Chain multiplication.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-05T12:49:30-05:00
 ---
 Matrix chain multiplication (or Matrix Chain Ordering Problem, MCOP) is an optimization problem that can be solved using dynamic
 programming. Given a sequence of matrices, the goal is to find the most efficient way to multiply these matrices. The problem is 
