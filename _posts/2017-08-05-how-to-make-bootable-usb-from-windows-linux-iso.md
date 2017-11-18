@@ -1,5 +1,8 @@
 ---
 layout: post
+seo:
+   name: Welcome to Saheb's blog - Random Access Memories.
+   type: BlogPosting
 title: "How to make Bootable USB, for any Operating system or bootable ISO image"
 modified:   2017-08-08
 categories: [ComputerSceince]
