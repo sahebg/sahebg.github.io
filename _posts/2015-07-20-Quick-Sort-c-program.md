@@ -1,5 +1,8 @@
 ---
 layout: post
+seo:
+   name: Welcome to Saheb's blog - Random Access Memories.
+   type: BlogPosting
 title: "What is Quick Sort , with C Program Example"
 modified:   2017-07-08
 categories: [ComputerSceince]
