@@ -8,9 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-06T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: How to fix Dota 2 Crashes or freeze issue in Windows 10.
+image: /images/post1.jpg
+pic:
     feature: post1.jpg
-    credit: killping
+date: 2017-10-15T12:49:30-05:00
 ---
 Dota 2 has gone through some tremendous updates in 7.0 version. The part which I liked was the new clean interface and MK.
 Now speaking of the problems we found a huge loss in FPS (which was shockingly bad) and bad crashes(Either Dota or system).
