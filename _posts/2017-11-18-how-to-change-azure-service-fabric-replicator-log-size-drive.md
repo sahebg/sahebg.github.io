@@ -8,7 +8,8 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-11-17T11:49:30-05:00
-image: 
+image: /images/Azure/servicefabric.JPG
+pic: 
     feature: /Azure/servicefabric.JPG
 ---
 Installing Service Fabric SDK and creating a local cluster takes huge space. The replicator log itself allocates 8GB of disk space.
