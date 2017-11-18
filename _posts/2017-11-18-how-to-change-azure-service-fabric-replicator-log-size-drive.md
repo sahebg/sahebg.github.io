@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Change"
+title: "How to Change Service Fabric replicator log size and drive"
 modified:   2017-11-17
 categories: [ComputerSceince]
 tags: [Azure, Service Fabric, Local Cluster, Replicator Log, Windows]
@@ -24,6 +24,7 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 - Inside that folder you will see a file named ClusterManifestTemplate.json. This is the file which generates the ClusterManifest.xml during Cluster creation.
 - Before making any changes into the file, for safer side please make a copy of the original. Now do the changes as mentioned below :
     - To change only the size of Replicator log : add a subsection for KtlLogger in fabricsettings section
+    
       {
 		"name": "KtlLogger",
 		"parameters": [
@@ -33,11 +34,10 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 		  }
         ]
 	  },
-    Note that minimum value is : 1024. You can make it 1024 or its integer multiples. this would look like this after change. Make sure Curly braces and Commas are correctly closed.
-    ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric2.JPG)
+	Note that minimum value is : 1024. You can make it 1024 or its integer multiples. This should look like this after 		change. Make sure Curly braces and Commas are correctly closed.
+   	 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric2.JPG)
     
-    - To change the drive itself for Local Cluster : edit the Setup subsection in fabricsettings section.Replace %systemdrive% to the drive where you want to keep your Cluster.
-      mine looks like this: 
+    - To change the drive itself for Local Cluster : edit the Setup subsection in fabricsettings section.Replace %systemdrive% 	    to the drive where you want to keep your Cluster. Mine looks like this: 
         "name": "Setup",
         "parameters": [
           {
@@ -51,7 +51,7 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
         ]
         ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric3.JPG)
 
-##You can even do both the changes, as I have done. This should look like this after the change.
+## You can even do both the changes, as I have done. This should look like this after the change.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric4.JPG) 
 
 - Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster
