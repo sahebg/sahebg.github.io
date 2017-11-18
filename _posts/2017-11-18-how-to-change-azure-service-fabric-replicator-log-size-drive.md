@@ -59,15 +59,18 @@ you have Secure setup then you need to go inside ClusterSetup/Secure. By default
 #### You can even do both the changes, as I have done. This should look like this after the change.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric4.JPG) 
 
-- Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster
+- Now we need to re-create the cluster. To do that Right Click on the Servcie Fabric Cluster Manager -> Remove Local Cluster. It will take some time. Get a coffee or someting !
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric5.JPG) 
 
-- Then when its removed you see an option for  Servcie Fabric Cluster Manager -> Setup Local Cluster -> 1 Node  or 5 Node as per your requirement.
+- When its removed you will see an option for  Servcie Fabric Cluster Manager -> Setup Local Cluster -> 1 Node  or 5 Node as per your requirement.
 In case you want 5 Node Cluster then you must also change FiveNode ClusterManifestTemplate.json file as well, as mentioned in ealier setup.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric6.JPG)
 
 Thats it ! Now you should the required changes and no more problem about C Drive getting full by replicatorsharedlog file.
 Next time whenever you build an Application into Service Fabric you will see Replicator log generated but of size you have mentioned.
 ![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric7.JPG)
+
+Also, you can always verify wheather your template changes has reflected or not in the ClusterManifest.xml file, which is located in side SfDevCluster/Data folder.
+![_config.yml]({{ site.baseurl }}/images/Azure/servicefabric8.JPG)
 
 Hope this helps. Please comment below in case of any problem found during running the code or any other doubts.
