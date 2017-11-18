@@ -8,8 +8,12 @@ sitemap:
     priority: 0.7
     changefreq: 'monthly'
     lastmod: 2017-08-05T12:49:30-05:00
-image:
+author: Saheb Ghosh
+description: Articulation points explanation and algorithmic solution. C Program example of how to find Articulation points in a graph.
+image: /images/Algo/algo.jpg
+pic:
     feature: /Algo/algo.jpg
+date: 2017-08-04T12:49:30-05:00
 ---
 In a graph, a vertex is called an articulation point if removing it and all the edges associated with it results in the increase of the number of connected components in the graph. For example consider the graph given in following figure.
 
