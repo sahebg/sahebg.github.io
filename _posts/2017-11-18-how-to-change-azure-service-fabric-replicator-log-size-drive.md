@@ -11,6 +11,9 @@ sitemap:
 image: /images/Azure/servicefabric.JPG
 pic: 
     feature: /Azure/servicefabric.JPG
+author: Saheb Ghosh
+description: How to modify Service Fabric replicator log size and also how to change Service Fabric Local cluster installtion directory or log directory.
+date: 2017-11-16T12:49:30-05:00    
 ---
 Installing Service Fabric SDK and creating a local cluster takes huge space. The replicator log itself allocates 8GB of disk space.
 Here is a solution to change the Replicator Log size and even change the Drive of Local Cluster, so that you never needs to worry about space at any 
